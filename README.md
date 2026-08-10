@@ -2,7 +2,7 @@
 Hardware design file that allow you replace Micro USB slot with a Type-C slot without modify the board
 
 # Soldering
-1. Remove the original Micro USB Plug
+1. Remove the original Micro USB connector
 2. Put the adapt board onto the original Micro-USB's position, align the 5 pins and solder them. Provide as much as possible solder so it can flow under the adapt board to make connection, just consider this as soldering a QFN chip.
 <img width="1286" height="703" alt="image" src="https://github.com/user-attachments/assets/0845ca72-a785-45ac-b502-c8e035d9dfb9" />
 3. Use multi-meter to test connection, because it is the easiest chance to fix connection before doing next step.
